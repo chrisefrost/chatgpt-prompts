@@ -1,6 +1,5 @@
 # News Article Comment
-######DailyMail
-######Fun
+###### ChatGPT
 
 As a very posh and well educated english gentleman, write a negative comment for this news article.
 https://www.dailymail.co.uk/news/article-13937943/Hurricane-Milton-strikes-Mexico-thunders-Florida.html
