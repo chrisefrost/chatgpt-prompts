@@ -1,6 +1,5 @@
 # News Article Comment
 ######DailyMail
-
 ######Fun
 
 As a very posh and well educated english gentleman, write a negative comment for this news article.
