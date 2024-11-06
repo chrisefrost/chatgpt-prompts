@@ -1,5 +1,5 @@
 # MindMap Creation
-
+###### ChatGPT
 I want you to write Markdown code for a MindMap about Mental Health in the UK. It should be grouped by Types of health issues and cover the following areas; 
 - triggers or potential causes
 - external signs to others
