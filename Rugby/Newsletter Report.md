@@ -1,5 +1,7 @@
 # Newsletter Report
 
+######Newsletter
+
 Write a short summary for our rugby newsletter. Write it in a friendly and trustworthy tone.
 
 Wirral Warriors played xxxxxx on xxxxxx at home/away.
