@@ -1,5 +1,6 @@
 # Newsletter Report
-######ChatGPT
+
+###### ChatGPT
 
 Write a short summary for our rugby newsletter. Write it in a friendly and trustworthy tone.
 
