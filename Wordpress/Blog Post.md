@@ -1,5 +1,7 @@
 # Blog Post
 
+###### ChatGPT
+
 My blog is about how a single parent can save money.
 Create a well structed blog post over 1500 words that focuses on SEO as well as being highlighy informative.
 Ensure there are a minimum of 4 sections.
