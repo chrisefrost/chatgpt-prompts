@@ -2,6 +2,6 @@
 
 ###### MidJourney
 
-A Jack Vettriano inspired scene of woman in her 40s, standing in the middle of a dimly lit bedroom with a window showing the New York night skyline. She is kissing another woman, soft shadows and warm ambient light creating a moody atmosphere. Detailed textures, classic Vettriano style, hd quality, natural look
+A painting in the style of Jack Vettriano of two women kissing in lingerie silhouette stood at a window at night, with the backdrop of New York. The window shows a sparkling cityscape with illuminated skyscrapers and street lights, the room is dimly lit, casting soft shadows, hd quality, natural look, 3D render, photorealistic, rich color palette, smooth brushstrokes, atmospheric lighting, vintage aesthetic
 
-<!-- https://cdn.midjourney.com/a8afe2e4-ff07-49f9-8f1b-5fb15510d351/0_1.png -->
+<!-- https://cdn.midjourney.com/dec05254-462d-42ea-8cd4-d2df837077b0/0_3.png -->
