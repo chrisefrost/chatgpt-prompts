@@ -1,0 +1,7 @@
+# Lowry Style
+
+###### MidJourney
+
+In the style of L.S. Lowry, the picture captures the bustling Liverpool waterfront during rush hour. The scene is filled with the signature matchstick figures that Lowry is famous for, each one hurriedly moving about their day. The waterfront is lined with iconic buildings, some with smokestacks billowing grey smoke into the sky, indicative of the industrial era. The River Mersey is prominently featured, with several small boats and ferries dotted across its surface, their reflections shimmering in the water. The sky above is a muted grey, typical of Lowry's work, suggesting an overcast day. Crowds of people are depicted walking along the docks, their faces expressionless, dressed in dark, simple clothing. Some are carrying briefcases or bags, likely workers heading home after a long day. Trams and cars add to the hustle and bustle, moving along the streets that run parallel to the water. There is a sense of movement and energy throughout the piece, with the repetitive, almost mechanical motion of the figures adding to the atmosphere of a city in constant motion. The buildings are painted in tones of red, brown, and grey, with windows and doors marked by simple, yet precise lines. Overall, the picture conveys the essence of a busy urban landscape, filled with the daily life and industrial activity that Lowry so often captured in his unique and distinctive style. --v 6
+
+<!-- https://cdn.midjourney.com/19be34da-0f32-4cf4-956b-36f1f6e4cd90/0_3.png -->
