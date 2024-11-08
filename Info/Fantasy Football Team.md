@@ -9,4 +9,4 @@ At the end, create 3 tables;
 2 - number of players per position,
 3 - number of players per club
 
-note the total cost to ensure it meets all rules.
+Note the total cost to ensure it meets all rules.
