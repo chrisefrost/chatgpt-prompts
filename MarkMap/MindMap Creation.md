@@ -9,6 +9,8 @@ For each disorder, include the following branches:
 - Triggers or Potential Causes: Provide specific examples, including biological, environmental, and situational triggers where relevant.
 - External Signs to Others: List observable signs such as behavioural, social, and physical symptoms, with several examples under each.
 - Impact to the Person Affected: Describe the emotional, social, and physical impact on the person. Include examples where relevant.
+- Impact on Work Life: Describe what impact this may have on working life. Include examples where relevant.
+- Impact on Personal Life: Describe what impact this may have on personal life. Include examples where relevant.
 - Facts: Provide three facts based on UK statistics or research, and include the source link for each.
 - Self Help: List practical self-help techniques for managing symptoms, such as daily practices, lifestyle changes, or mindfulness techniques.
 - Support Channels Available: Include two branches here:
